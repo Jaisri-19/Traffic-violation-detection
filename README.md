@@ -139,4 +139,4 @@ Improved night-time detection
 
 Jai
 B.Tech Computer Science Engineering
-GitHub: https://github.com/Jaisni-19👨‍💻 Author
+GitHub: https://github.com/Jaisni-19
